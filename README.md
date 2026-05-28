@@ -1,7 +1,6 @@
 # Зачет
 **ФИО:** Капуста Арина Ивановна
 
-## Результаты ручного тестирования
 
 ## Результаты ручного тестирования
 
@@ -19,4 +18,4 @@
 | 10 | ПУ+ с нулевым М5 | ПУ+ | 10 | 15 | 25 | 25 | 0 | Сумма=75, Оценка=5 | Сумма=75, Оценка=5 | PASS |
 
 
-[GitHub - ExamGradeApp11](https://github.com/kpsssta21/ExamGradeApp11/blob/master/image.png)
+[скрин](https://github.com/kpsssta21/ExamGradeApp11/blob/master/image.png)
